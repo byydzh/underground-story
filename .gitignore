@@ -1,0 +1,19 @@
+# Whitelist repository: ignore everything unless explicitly included below.
+*
+
+!/.gitignore
+
+!/Game.exe
+!/Game.ini
+!/Game.rvproj2
+
+!/Audio/
+!/Audio/**
+!/Data/
+!/Data/**
+!/Graphics/
+!/Graphics/**
+!/System/
+!/System/**
+!/交接资料/
+!/交接资料/**
