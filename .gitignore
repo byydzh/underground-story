@@ -17,3 +17,6 @@
 !/System/**
 !/交接资料/
 !/交接资料/**
+
+# Microsoft Office temporary lock files.
+**/~$*.docx
